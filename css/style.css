@@ -98,7 +98,7 @@ li.my_work_top>a:before{
     background-position: -60px -180px;
 }
 .my_work li:hover .float_ul{
-    width: 100%;
+    width: 380px;
     overflow: visible;
 }
 .float_ul li{
